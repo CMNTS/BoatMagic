@@ -1,0 +1,16 @@
+
+#    ▄▄▄▄·        ▄▄▄· ▄▄▄▄▄• ▌ ▄ ·.  ▄▄▄·  ▄▄ • ▪   ▄▄·
+#    ▐█ ▀█▪▪     ▐█ ▀█ •██  ·██ ▐███▪▐█ ▀█ ▐█ ▀ ▪██ ▐█ ▌▪
+#    ▐█▀▀█▄ ▄█▀▄ ▄█▀▀█  ▐█.▪▐█ ▌▐▌▐█·▄█▀▀█ ▄█ ▀█▄▐█·██ ▄▄
+#    ██▄▪▐█▐█▌.▐▌▐█ ▪▐▌ ▐█▌·██ ██▌▐█▌▐█ ▪▐▌▐█▄▪▐█▐█▌▐███▌
+#    ·▀▀▀▀  ▀█▄▀▪ ▀  ▀  ▀▀▀ ▀▀  █▪▀▀▀ ▀  ▀ ·▀▀▀▀ ▀▀▀·▀▀▀
+
+config-version: 1
+
+boat:
+  DARK_OAK_BOAT: "Dark Oak Boat"
+  SPRUCE_BOAT: "Spruce Boat"
+  JUNGLE_BOAT: "Jungle Boat"
+  ACACIA_BOAT: "Acacia Boat"
+  BIRCH_BOAT: "Birch Boat"
+  OAK_BOAT: "Oak Boat"

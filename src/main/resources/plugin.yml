@@ -1,0 +1,5 @@
+name: BoatMagic
+version: 1.0.0
+main: lv.cmnts.BoatMagic.Main
+api-version: 1.16
+author: CMNTS
