@@ -1,4 +1,4 @@
-# Foobar
+# Welcome
 
 BoatMagic is semi-abandoned project of mine that I have released for public. Edit as you wish. 
 
