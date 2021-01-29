@@ -49,7 +49,6 @@ public class Main extends JavaPlugin {
             saveConfig();
         }
 
-
         log.info("Plugin made by CMNTS#8876");
 
         Bukkit.getPluginManager().registerEvents(new BoatEvent(this), this);
@@ -57,8 +56,6 @@ public class Main extends JavaPlugin {
 
     @NotNull
     public Material getBoatType(TreeSpecies tree) {
-        if (tree == null) return Material.OAK_BOAT;
-
         switch (tree) {
             case DARK_OAK: return Material.DARK_OAK_BOAT;
             case REDWOOD: return Material.SPRUCE_BOAT;
